@@ -47,6 +47,7 @@ VITE_BACKEND_URL=http://localhost:8080
 
 ## Project Structure
 
+```
 src/
 │
 ├── components/
@@ -64,6 +65,7 @@ src/
 │
 ├── App.jsx
 └── main.jsx
+```
 
 ## WebSocket Endpoints
 Backend WebSocket endpoint:
